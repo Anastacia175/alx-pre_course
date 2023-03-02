@@ -1,4 +1,1 @@
-# ignore ALL .log files
-*.log
-#ignore ALL FILES in all directories end with temp
-*temp/
+~
